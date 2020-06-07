@@ -19,7 +19,7 @@
         <repository>
           <id>github</id>
           <name>GitHub OWNER Apache Maven Packages</name>
-          <url>https://maven.pkg.github.com/petbattle/pet-battle-api-v1</url>
+          <url>https://maven.pkg.github.com/noelo/pet-battle-api-v1</url>
         </repository>
      </distributionManagement>
 
