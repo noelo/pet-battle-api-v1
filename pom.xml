@@ -14,6 +14,15 @@
         <quarkus.version>1.5.0.Final</quarkus.version>
         <surefire-plugin.version>2.22.1</surefire-plugin.version>
     </properties>
+
+    <distributionManagement>
+        <repository>
+          <id>github</id>
+          <name>GitHub OWNER Apache Maven Packages</name>
+          <url>https://maven.pkg.github.com/petbattle/pet-battle-api-v1</url>
+        </repository>
+     </distributionManagement>
+
     <dependencyManagement>
         <dependencies>
             <dependency>

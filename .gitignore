@@ -4,6 +4,8 @@
 .settings/
 bin/
 
+.history/
+
 # IntelliJ
 .idea
 *.ipr
